@@ -1,9 +1,10 @@
-
+#include "UnitFactory.h"
 
 
 int main()
 {
-
+    SpawnFactory Factory;
+    Factory.SpawnUnits();
 
 
 
